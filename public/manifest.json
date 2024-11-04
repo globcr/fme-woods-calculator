@@ -13,7 +13,7 @@
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "icon.svg",
       "type": "image/svg",
       "sizes": "512x512"
     }
