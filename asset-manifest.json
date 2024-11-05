@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fme-woods-calculator/static/css/main.8f403ea2.css",
+    "main.js": "/fme-woods-calculator/static/js/main.2c7232b3.js",
+    "static/js/787.cd1a1f34.chunk.js": "/fme-woods-calculator/static/js/787.cd1a1f34.chunk.js",
+    "index.html": "/fme-woods-calculator/index.html",
+    "main.8f403ea2.css.map": "/fme-woods-calculator/static/css/main.8f403ea2.css.map",
+    "main.2c7232b3.js.map": "/fme-woods-calculator/static/js/main.2c7232b3.js.map",
+    "787.cd1a1f34.chunk.js.map": "/fme-woods-calculator/static/js/787.cd1a1f34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f403ea2.css",
+    "static/js/main.2c7232b3.js"
+  ]
+}
